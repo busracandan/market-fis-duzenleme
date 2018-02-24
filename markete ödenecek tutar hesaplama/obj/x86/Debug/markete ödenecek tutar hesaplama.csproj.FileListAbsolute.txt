@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\bin\Debug\markete ödenecek tutar hesaplama.exe
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\bin\Debug\markete ödenecek tutar hesaplama.pdb
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\obj\x86\Debug\markete_ödenecek_tutar_hesaplama.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\obj\x86\Debug\markete_ödenecek_tutar_hesaplama.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\obj\x86\Debug\markete ödenecek tutar hesaplama.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\obj\x86\Debug\markete ödenecek tutar hesaplama.exe
+c:\users\asus\documents\visual studio 2010\Projects\markete ödenecek tutar hesaplama\markete ödenecek tutar hesaplama\obj\x86\Debug\markete ödenecek tutar hesaplama.pdb
